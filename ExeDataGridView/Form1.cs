@@ -24,6 +24,8 @@ namespace ExeDataGridView
             this.mahasiswaTableAdapter.Fill(this.prodiTIDataSet.Mahasiswa);
 
            dataGridView1.ColumnHeadersDefaultCellStyle.Font = new Font(DataGridView.DefaultFont, FontStyle.Bold);
+           dataGridView1.ColumnHeadersDefaultCellStyle.Alignment = DataGridViewContentAlignment.MiddleCenter;
+
 
 
         }
