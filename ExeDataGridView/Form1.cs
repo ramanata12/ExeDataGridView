@@ -38,6 +38,10 @@ namespace ExeDataGridView
             dataGridView1.Columns[3].DefaultCellStyle.SelectionBackColor = Color.Blue;
             dataGridView1.Columns[4].DefaultCellStyle.SelectionBackColor = Color.Maroon;
 
+            dataGridView1.Columns[3].DefaultCellStyle.Alignment = DataGridViewContentAlignment.MiddleCenter;
+
+
+
 
 
         }
