@@ -28,7 +28,7 @@ namespace ExeDataGridView
 
             dataGridView1.Columns[0].DefaultCellStyle.ForeColor = Color.Purple;
             dataGridView1.Columns[1].DefaultCellStyle.ForeColor = Color.Blue;
-            dataGridView1.Columns[2].DefaultCellStyle.ForeColor = Color.Green;
+            dataGridView1.Columns[2].DefaultCellStyle.ForeColor = Color.GreenYellow;
             dataGridView1.Columns[3].DefaultCellStyle.ForeColor = Color.DarkGreen;
             dataGridView1.Columns[4].DefaultCellStyle.ForeColor = Color.DarkRed;
 
